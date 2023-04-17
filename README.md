@@ -2,9 +2,7 @@
 
 This repository contains input dataset files that can be used with [MurTree](https://github.com/MurTree/murtree) and [pymurtree](https://github.com/MurTree/pymurtree).
 
-The datasets are benchmarks from other papers, binarised with the _continuousToCategorical.r_ R script included in this repository.
-
-Each subdirectory contains data from one paper. The papers are as follows:
+The datasets are benchmarks from other papers, binarised with the _continuousToCategorical.r_ R script included in this repository. Each subdirectory contains data from one paper. The papers are as follows:
 
 - DL  -  Aglin, Gaël; Siegfried Nijssen; Pierre Schaus. _"Learning optimal decision trees using caching branch-and-bound search."_ (AAAI'20).
 
